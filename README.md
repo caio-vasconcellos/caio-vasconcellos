@@ -13,8 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white)
 
 </div>
 
@@ -91,6 +89,8 @@ I have practical and academic experience with **Python**, **SQL (SQL Server and 
 - **Spanish:** advanced communication, also developed during one year of exchange in Mexico.
 
 ### 📫 Contact
+
+- **Email:** [caiopvasconcellos@gmail.com](mailto:caiopvasconcellos@gmail.com)
 
 <div align="center">
 
