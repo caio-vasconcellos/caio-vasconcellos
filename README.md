@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white)
 
@@ -27,7 +26,7 @@ Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Faculdade
 
 ### 🧠 Conhecimentos
 
-Tenho experiência prática e acadêmica com **Python**, **SQL (SQL Server e MySQL)**, **C#/.NET**, **React/TypeScript**, **Excel**, **Power BI** e **Microsoft Office**. Também tenho facilidade com documentação técnica, organização de informações e comunicação de conteúdos técnicos.
+Tenho experiência prática e acadêmica com **Python**, **SQL (SQL Server e MySQL)**, **C#/.NET**, **React/TypeScript**, **Excel** e **Microsoft Office**. Também tenho facilidade com documentação técnica, organização de informações e comunicação de conteúdos técnicos.
 
 ### 🚀 Projetos em destaque
 
@@ -45,8 +44,15 @@ Tenho experiência prática e acadêmica com **Python**, **SQL (SQL Server e MyS
 
 ### ✨ Experiências extras
 
-- Projeto pessoal de vendas low-ticket em e-commerce utilizando Meta Ads.
-- Criação e edição de criativos digitais com CapCut.
+- Conhecimento e uso de **Power BI** em atividades acadêmicas e análise de dados.
+- Projeto pessoal de vendas low-ticket em e-commerce utilizando **Meta Ads**.
+- Criação e edição de criativos digitais com **CapCut**.
+
+### 🌐 Idiomas
+
+- **Português:** nativo.
+- **Inglês:** comunicação avançada em situações cotidianas, leitura e escrita.
+- **Espanhol:** comunicação avançada, desenvolvida também durante um ano de intercâmbio no México.
 
 ## 🇺🇸 English
 
@@ -56,7 +62,7 @@ Fourth-semester Systems Analysis and Development student at the São Paulo State
 
 ### 🧠 Knowledge
 
-I have practical and academic experience with **Python**, **SQL (SQL Server and MySQL)**, **C#/.NET**, **React/TypeScript**, **Excel**, **Power BI** and **Microsoft Office**. I am also comfortable with technical documentation, information organization and explaining technical topics clearly.
+I have practical and academic experience with **Python**, **SQL (SQL Server and MySQL)**, **C#/.NET**, **React/TypeScript**, **Excel** and **Microsoft Office**. I am also comfortable with technical documentation, information organization and explaining technical topics clearly.
 
 ### 🚀 Featured projects
 
@@ -74,8 +80,15 @@ I have practical and academic experience with **Python**, **SQL (SQL Server and 
 
 ### ✨ Additional experience
 
-- Personal low-ticket e-commerce sales project using Meta Ads.
-- Creation and editing of digital ad creatives with CapCut.
+- Knowledge and use of **Power BI** in academic activities and data analysis.
+- Personal low-ticket e-commerce sales project using **Meta Ads**.
+- Creation and editing of digital ad creatives with **CapCut**.
+
+### 🌐 Languages
+
+- **Portuguese:** native.
+- **English:** advanced communication in everyday situations, reading and writing.
+- **Spanish:** advanced communication, also developed during one year of exchange in Mexico.
 
 ### 📫 Contact
 
